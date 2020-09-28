@@ -64,6 +64,7 @@ ngrok http 3000
 ![AWS Development Architecture](images/aws-dev-architecture.png)
 
 - **NOTE:** When executing **npm run config** below use your own account, region and create your own globally unique S3 bucket name.
+- **NOTE:** On Windows execute **npm run win-setup** instead.
 
 ```bash
 npm run config -- --account-id="844663253475" --bucket-name="helloworld9912" --function-name="helloworld" --region="us-east-1"
