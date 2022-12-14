@@ -39,6 +39,6 @@
     "aws-serverless-express": "^3.3.8",
     "axios": "^0.19.2",
     "body-parser": "^1.17.1",
-    "express": "^4.15.2"
+    "express": "^4.17.3"
   }
 }
